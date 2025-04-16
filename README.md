@@ -23,3 +23,5 @@ Para executar o projeto de notas utilizando Vite, siga os passos abaixo:
 **Observação sobre o Layout:**
 
 O layout da aplicação foi desenvolvido utilizando **Flexbox**, garantindo uma interface responsiva e organizada em diferentes tamanhos de tela. 
+
+Obs.: está aplicação usa o: [Node.js](https://nodejs.org/)
